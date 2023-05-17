@@ -10,8 +10,8 @@ const Category = ({categories}) => {
       <div className="categories">
       {categories?.map((item,index)=>(
         <div className="category"  onClick={()=>navigate(`/category/${item.categoryName}`)} key={index}>
+          <h2 style={{color:'white'}}>{item.categoryName}</h2>
           <img src={item.categoryImg} alt="" />
-          <h2>{item.categoryName}</h2>
         </div>
       ))}
       </div>
