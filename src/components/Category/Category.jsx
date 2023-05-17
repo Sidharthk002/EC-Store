@@ -14,7 +14,7 @@ const Category = () => {
     // .then(res=>{
     //   setData(res.data)
     // })
-    fetch(`http://localhost:3000/posts?category=${id}`)
+    fetch(`https://rest-api-three-liard.vercel.app/posts?category=${id}`)
       .then((response) => response.json())
       .then((data) => {
         setData(data);

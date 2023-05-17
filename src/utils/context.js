@@ -113,7 +113,7 @@ const AppContext = ({ children }) => {
   };
 
   useEffect(()=>{
-    axios.get(`http://localhost:3000/posts`).then(res=>setData(res.data))
+    axios.get(`https://rest-api-three-liard.vercel.app/posts`).then(res=>setData(res.data))
    },[])
    console.log(data)
 

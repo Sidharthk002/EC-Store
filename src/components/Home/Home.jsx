@@ -15,7 +15,7 @@ const Home = () => {
     // axios.get("http://localhost:3000/posts").then((res) => {
     //   setProducts(res.data);
     // });
-    fetch("http://localhost:3000/posts")
+    fetch("https://rest-api-three-liard.vercel.app/posts")
       .then((response) => response.json())
       .then((data) => {
         setProducts(data);
@@ -28,7 +28,7 @@ const Home = () => {
     // axios.get("http://localhost:3000/posts").then((res) => {
     //   setCategories(res.data);
     // });
-    fetch("http://localhost:3000/posts")
+    fetch("https://rest-api-three-liard.vercel.app/posts")
       .then((response) => response.json())
       .then((data) => {
         setCategories(data);

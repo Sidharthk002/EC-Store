@@ -11,7 +11,7 @@ const RelatedProducts = ({ categoryId, productId }) => {
     //     setData(res.data)
     //     //  datas = data?.filter((p)=> p.id !== productId);
     //   })
-    fetch(`http://localhost:3000/posts?category=${categoryId}`)
+    fetch(`https://rest-api-three-liard.vercel.app/posts?category=${categoryId}`)
       .then((response) => response.json())
       .then((data) => {
         setData(data);

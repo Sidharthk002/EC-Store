@@ -24,7 +24,7 @@ const SingleProduct = () => {
     // axios.get(`http://localhost:3000/posts?id=${id}`).then((res) => {
     //   setData(res.data[0]);
     // });
-    fetch(`http://localhost:3000/posts?id=${id}`)
+    fetch(`https://rest-api-three-liard.vercel.app/posts?id=${id}`)
       .then((response) => response.json())
       .then((data) => {
         setData(data[0]);
