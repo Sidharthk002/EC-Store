@@ -1,0 +1,195 @@
+{
+  "posts": [
+    {
+      "categoryImg": "https://www.marshallheadphones.com/on/demandware.static/-/Sites-zs-master-catalog/default/dw08944168/images/marshall/headphones/major-iv/large/pos-marshall-major-iv-black-01.png",
+      "categoryName": "Headphone"
+    },
+    {
+      "categoryImg": "http://www.clipular.com/c/5184049091706880.png?k=AYJO2aNJPCjijEP84YXQga39shg",
+      "categoryName": "Bluetooth Speaker"
+    },
+    {
+      "categoryImg": "https://images.ctfassets.net/wcfotm6rrl7u/5CrovTBmbzI3LIH4hzXg8q/f5288420e157ec105c35856ea0c52591/nokia_Earbuds_Lite_BH205-og_image.jpg?w=1200",
+      "categoryName": "Airdopes"
+    },
+    {
+      "categoryImg": "https://images-cdn.ubuy.co.in/640d9091d2f1d5366129766c-smart-watch-for-men-fitness-tracker.jpg",
+      "categoryName": "Smart Watch"
+    },
+    {
+      "id": 1,
+      "title": "boAt Rockerz 450 DC edition | Wireless Headphone with 40mm Dynamic Driver",
+      "price": 1999,
+      "desc": "There is no better justice to your playlist & binging than Rockerz 450 boAt | DC edition. If low battery is your enemy, the 15HRS non-stop playback is here to rightfully combat that. Feel the power rising up in your veins as you indulge in your playlist with its 40mm dynamic drivers. Make adaptiveness your superpower just like the adaptive headband of Rockerz 450. Get ready to rule with #DCYou.",
+      "category": "Headphone",
+      "img": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/3_4_600x.png?v=1655534211"
+    },
+    {
+      "id": 2,
+      "title": "Rockerz 550 Over Ear Bluetooth Headphone",
+      "price": 1799,
+      "desc": "boAt Rockerz 550 is an over-ear wireless headset that has been ergonomically designed to meet the needs of music lovers. The headphones come equipped with the latest Bluetooth v5.0 for instant wireless connectivity. Its powerful 500mAh battery provides playtime of up to 20 hours for an extended audio bliss. Its 50mm dynamic drivers help supply immersive musical experience to the user with immersive sound. The user can utilize the headset via dual connectivity in the form of Bluetooth and AUX.",
+      "category": "Headphone",
+      "img": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/0cfa4417-0213-4b49-b78e-0ae68aeb7057_600x.png?v=1625046144"
+    },
+    {
+      "id": 3,
+      "title": "boAt Rockerz 518 Wireless Headphone",
+      "price": 1599,
+      "desc": "Now just stop worrying about Wires hanging from here and there. Pair with any Bluetooth device, connect and play. Dead Batteries can kill your vibe. boAt Rockerz 518 is designed to play Up to 20 hours. Don't just be loud, be loud and clear. We assure you have not heard such powerful bass and vocal clarity from a wireless comfortable headphone with Extra Comfort Ear cups. The boAt Super Bass Rockerz 518 Wireless Headphones will make your listening experience personal and for real. So, just plug it in and Plug into Nirvana.",
+      "category": "Headphone",
+      "img": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/Cushion-COmfort2_1_446859be-4498-4c06-aafb-4cf38d250e82_1500x.jpg?v=1667509001"
+    },
+    {
+      "id": 4,
+      "title": "Rockerz 400",
+      "price": 1299,
+      "desc": "Now just stop worrying about Wires hanging from here and there. Pair with any Bluetooth device, connect and play. Dead Batteries can kill your vibe. boAt Rockerz 518 is designed to play Up to 20 hours. Don't just be loud, be loud and clear. We assure you have not heard such powerful bass and vocal clarity from a wireless comfortable headphone with Extra Comfort Ear cups. The boAt Super Bass Rockerz 518 Wireless Headphones will make your listening experience personal and for real. So, just plug it in and Plug into Nirvana.",
+      "category": "Headphone",
+      "img": "https://cdn1.smartprix.com/rx-iTc74N5Jn-w1200-h1200/Tc74N5Jn.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Trebel Rockerz 550 Wireless Bluetooth Headphones",
+      "price": 1999,
+      "desc": "Ladies, the time hath come to reach the wall of fame. Make your hustle shine like a diamond with TRebel Rockerz 550 — an audio partner that’s made to suit your vibe. Let your hustle never stop with its 20 hours of powerful playback and never settle for less with the sheer audio power of 50mm Dynamic Drivers. Block the voices that don’t matter with its physical noise isolation. With a 500mAh battery, TRebel Rockerz 550 will be your cheerleader through thick & thin. There’s no point in waiting — match your mood with the best wireless headphones for women.",
+      "category": "Headphone",
+      "img": "https://static1.industrybuying.com/products/it-electronics/audio/headphones/ITE.HEA.87960368_1675690815836.webp"
+    },
+    {
+      "id": 6,
+      "title": "Rockerz 450 Superman DC Edition - Wireless Bluetooth Headphone",
+      "price": 1999,
+      "desc": "There is no better justice to your playlist than Rockerz 450 boAt | DC edition. If low battery is your enemy, the 15HRS non-stop playback is here to rightfully combat that. Feel the power rising up in your veins, just like the sun powers the Man of Steel, as you indulge in your playlist with its 40mm dynamic drivers. Be your own hero as you get ready to rule with #DCYOU.",
+      "category": "Headphone",
+      "img": "http://cdn.shopify.com/s/files/1/0057/8938/4802/products/3_4_1a97f712-5557-4a44-8231-d5817d038597.png?v=1655536115"
+    },
+    {
+      "id": 7,
+      "title": "boAt Wave Neo | 1.69 HD Display, Upto 7 Days Battery Life, IP68 Sweat",
+      "price": 1799,
+      "desc": "Introducing a #NeoWay to live smart and stylish – the all-new Watch Wave Neo. Check everything that you need in a smartwatch and then get some more. Packed with a 1.69 inches screen, 550 nits brightness & 2.5D Curved Display – Watch Wave Neo will make your world better & brighter.",
+      "category": "Smart Watch",
+      "img": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/removal.ai__tmp-63679b0fb06a2_800x.png?v=1667734467"
+    },
+    {
+      "id": 8,
+      "title": "boAt Iris | Round Dial Smart Watch with 1.39 AMOLED Display, Multiple Watch Faces",
+      "price": 4499,
+      "desc": "Shoutout to all who see the glass half full. It is time to switch over to the bright side. Watch Iris will get you through the week with a 7-day battery backup. Thrive through your success with all the important notifications on your smartwatch. The timeless look comes with multiple watch faces and strap options to go with all versions of your style. Nail every sport you play with 8 active sports modes tracking your performance. Don’t worry about sweat and water, it is IP68. Being healthy is an imperative when your watch has a heart rate monitor, oxygen level monitor, sedentary reminder tracking your health 24x7. Pump up your style!",
+      "category": "Smart Watch",
+      "img": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/img7_3b8c92de-05ac-4afd-ad07-90604e5cad19.png?v=1640184407"
+    },
+    {
+      "id": 8,
+      "title": "boAt Vertex | Smartwatch with Fitness Trackers, 1.69 HD Display, Sleep Tracking, 100+ Watch Faces",
+      "price": 2299,
+      "desc": "When you can be at the apex of your health, why compromise? Meet Watch Vertex, our all-new smartwatch that’s built to improve your lifestyle and push you closer towards your fitness goals. Its large 1.69 inch full capacitive touch display allows you to control everything. Fitness features, including heart rate & SpO2 tracker, health ecosystem, sleep tracker, and more, ensure you get the support you need on your fitness journey. Enjoy going on hikes? Vertex is the perfect travel partner with its extra long battery of up to 10 days. Hustle your journey to the top with Vertex.",
+      "category": "Smart Watch",
+      "img": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/sec12.png?v=1634898234"
+    },
+    {
+      "id": 9,
+      "title": "Stone 1500F | 14W boAt Signature Sound with Passive Bass Radiator",
+      "price": 3999,
+      "desc": "Add life to all your parties with the ultimate jukebox - Stone 1200F bluetooth speaker. It’s powered by 14W boAt Signature Sound with Passive Bass Radiator that’s built to add spark to all your plans. The RGB LED lights are perfect to set the perfect vibe for a casual chilling session with your best buds. You can take it along everywhere you go with its 360-degree ergonomic design, shoulder strap and IPX7 Water & Splash Resistance that protects it even when outdoors.",
+      "category": "Bluetooth Speaker",
+      "img": "https://dailydeals365.in/wp-content/uploads/2022/12/original-imag94zafybdhmwu.webp"
+    },
+    {
+      "id": 10,
+      "title": "Stone 352 - Wireless Portable Bluetooth Speaker",
+      "price": 1699,
+      "desc": "Be the life of every party as you carry the ultra-portable Stone 352 with you, wherever you go. Its 10W Stereo boAt Signature Sound will make you vibe with full force as every beat becomes clear. Too bored partying within four walls? No problem! Shield your good times as the dynamic Stone 352 is equipped with IPX7 Splash & Water Shield— rain or poolside we got you covered! Party from dusk till dawn with its 12H nonstop playtime & double the impact as you connect 2 Stone 352s via the TWS feature. So get your gang & set to groove!",
+      "category": "Bluetooth Speaker",
+      "img": "https://i0.wp.com/itportal.co.in/wp-content/uploads/2022/11/a5-97.jpg?fit=1500%2C1500&ssl=1"
+    },
+    {
+      "id": 11,
+      "title": "Stone 1000v2",
+      "price": 2999,
+      "desc": "Powerful and Precise. Stone 1000v2 is the premier wireless speaker that provides the best audio in the business. With its 14W stereo sound, get a boogie on and party all night. Stone 1000v2 also comes packed with state-of-the-art specs to keep you engrossed and engaged through it all!.",
+      "category": "Bluetooth Speaker",
+      "img": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/S/aplus-media-library-service-media/811fdca6-6ef8-4a8a-b2da-5964ed632a4b.__CR0,0,970,600_PT0_SX970_V1___.jpg"
+    },
+    {
+      "id": 12,
+      "title": "boAt Stone 500 - Portable Bluetooth Speaker",
+      "price": 1699,
+      "desc": "Become the life of every party with Stone 500. Experience 10W RMS stereo sound and groove with your gang on your favourite tunes. Double the thump with its TWS functionality that lets you connect & play 2 Stone 500 together. The dynamic RGB lights will add to the vibe of your party as you get transported to a club setting. Its universal connectivity with multiple connectivity modes —Bluetooth v5.0, AUX, USB and FM mode. With a Type-C charging interface & instant voice assistant, this wireless speaker will make your life easier as you enjoy the sound of your choice. With Stone 500, it is time to #BeTheLimelight.",
+      "category": "Bluetooth Speaker",
+      "img": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/img1_199503c8-b10d-4480-8f74-e22b9cc609e7.png?v=1646910815"
+    },
+    {
+      "id": 13,
+      "title": "Party Pal 60",
+      "price": 4999,
+      "desc": "Wherever the party is tonight, make sure you carry the powerful 20W R.M.S Sound of the PartyPal 60 along. It’s time to create memories with wireless Bluetooth V5.0 guiding you to the shores of Nirvana. So, get loud and vibing with the integral space boom party inspired design of the boAt PartyPal 60. Customize those EQ’s until the bass is almost rude, with up to 4 hours of playtime from the 2200mAh lithium battery. Connect two PartyPal’s and get turned with true wireless feature making each moment magical. The system to your sound is here to turn the world around with its karaoke feature that allows you to work on your singing embarrassment free. Tune into any mode you want with FM Radio/ TF/ USB/ AUX that becomes easy to access with the integrated controls and in-built mic. The conditions are favourable to sail when you’re traveling on the boAt PartyPAl 60 bluetooth party speakers.",
+      "category": "Bluetooth Speaker",
+      "img": "https://cdn1.smartprix.com/rx-iCCPZC0Eo-w420-h420/boat-partypal-60-20w.jpg"
+    },
+    {
+      "id": 14,
+      "title": "Party Pal 60",
+      "price": 4999,
+      "desc": "Wherever the party is tonight, make sure you carry the powerful 20W R.M.S Sound of the PartyPal 60 along. It’s time to create memories with wireless Bluetooth V5.0 guiding you to the shores of Nirvana. So, get loud and vibing with the integral space boom party inspired design of the boAt PartyPal 60. Customize those EQ’s until the bass is almost rude, with up to 4 hours of playtime from the 2200mAh lithium battery. Connect two PartyPal’s and get turned with true wireless feature making each moment magical. The system to your sound is here to turn the world around with its karaoke feature that allows you to work on your singing embarrassment free. Tune into any mode you want with FM Radio/ TF/ USB/ AUX that becomes easy to access with the integrated controls and in-built mic. The conditions are favourable to sail when you’re traveling on the boAt PartyPAl 60 bluetooth party speakers.",
+      "category": "Bluetooth Speaker",
+      "img": "https://cdn1.smartprix.com/rx-iCCPZC0Eo-w420-h420/boat-partypal-60-20w.jpg"
+    },
+    {
+      "id": 15,
+      "title": "Party Pal 50",
+      "price": 3799,
+      "desc": "Immerse in the 20W RMS Stereo Sound with the powerful Party Pal 50 bluetooth speaker. Set the vibes of the party just right with the RGB LEDs. Keep worries at bay and party poolside with IPX5 splash resistant! Get, set, grooving as Party Pal 50 comes with a powerful playback of 4.5 Hrs. Access Instant Voice Assistant and enjoy the multiple connectivity modes- USB, AUX, Bluetooth v5.1, and FM. Coming with Type-C interface, Party Pal 50 is all you need to set the mood just about right. So, where y’all partying at?",
+      "category": "Bluetooth Speaker",
+      "img": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHCBISFRgSERIYGBIZGhoYEhgSGBgRGBERGBgZGRgYGBkcIS4lHB4rIRgYJjgmKy8xNTU1GiQ7QDs0Py40NTEBDAwMEA8QHhIRGjQhISExMTQ2NDQ0NDQxNDE0MTQxNj80NzQ0NDExMTExND80MTQxMTQ0NDQ0MTE0NDQ0MTExNP/AABEIAOEA4QMBIgACEQEDEQH/xAAbAAACAwEBAQAAAAAAAAAAAAABAgADBAUGB//EAEUQAAIBAgMDCAYIBQIFBQAAAAECAAMRBCExBRJBIjJRYXFygcETQlKRwtEGFCOhsbLS8BUzYoKS0+EWJDRT8QdDY3O0/8QAGgEBAQEBAQEBAAAAAAAAAAAAAQACAwQFBv/EACwRAQEAAgEDAgQFBQEAAAAAAAABAhEDBBIxIUEFUXHBEzJhkaEiI4Gx0RT/2gAMAwEAAhEDEQA/APl6+r3m+KReHfPnAvq95vikXh3z8U27wVOnePxQ/rb4oo4d4/FCOHfPxSMEaDvH8TD+s+cUaDvnzh/WfOalaH/Uk/1IL/nk/wBSS2a/5/lJ+v5RQfz/ACilwNT6/wAonaxjr3x5SE694eUrVgdPbHlJ6RTlf1xbr0lsdywnXvD4ZCde8vwyo1BmCRzh5Ride8vuykN7M/HvCR/W7wised3hA7jld4SGzued3h+EjnndoiVHA3r9IgdhZjfK4zjBadzzu0Qued2jziORyu0Qued++mMoNU9btHnIx53aIrtzu0ecjHndoiyLcfCFuPhFY6+EjnneENqGPHwgPreHlAx53h85CdewfiImi3HsHlI3rdg8orHXsHlIfW8PKZZPeSVyRQL6vebzhX1e+fiiqdO83nCvDvH4pybgrw75+KEcO+figXh3z5yDh3z8Uj7CPjPnD+s+cUfH85L/AJ/nJCfjh/XFPxw/rls7T9c95/6X1WRdoNTrrQYUkK1XAZaR3n5TAg3A7J4IfH8powuPq0lqLSqFEq8isotaonstcaZnTphRl6x9M+kOHpVcVsvD4+omIquS9fEqi0UxNB2vQQboAcEhVuNL/wBUsc4/GtjsJWxRw6J6RUw31IPTGFp2KMlbkhSRcDM8SOFvmGJ2hWqIlF6jNSpMRRVrEUgxG8FNrgHLK9sh0CdnG7Y2q9JKFTFVXSqBu0g4qVHpsLjeUctlIucyRYWPRLTnZXvvo5tF6OA2ZbFVaNNvS+kSjhvrf1hRX5rNYmmACRcC53j0T5z9NcKaONxSFES1YsFpm6KjhXW2Q9VgSLCxJl9D6Q7VwdFVSvWpYdXemq7qgK4s7LyluDy756520NufjNmYz7SpWSozBlaszXqPy1NTfZs7ruqbsTlxlDPS7Db7AVQP/hwn/wCShOpiNo+io4VfruKo/YX3MOu8ueIr8q/p05RtnyeAzmCttHGKFp1Duq6qiGtRpLvUgoReW6XKhbDevkLGXUKmPpqKYKqtNqlNVqU6VQoabqHW7Kx3Q9UZk2uTbSKpV2lXpYMPTr1UZsVU32So6lz6GkbswILG5vczU2PKNhcXWQtVZa2+ylRUqUVBSlidLekUs9mI5Rw4YnUzGj7QoM9FKb75ZqhU0FqAtfceogZDkSALrYaDqnNbaNb0hxArVPTXBFTfbfvu7vO15uVujLSQdDalR6tIVBi6mIpJUCkYhWSrQqOrsLhmYbrLTY8lzmuYGRPIY8799M043aNWsu7UcFFYlUREpIGbnNuIoUsbZta8yMde2aih3PO8POQnndoiOed4ecLet2iaJm4+EjHXwisdfCBjr4SSxzr4QM3O7B5RG1Ph5Qv63YPKWyLcfDyhY69g8orHXw8pDx7B5Q2D70kW8kkC6jvN5yKdO8fOAcO83nIOHePnMKUV4d4+cYHTvn4oq8O8fikB07585HYg/nPnAPi+cg+M+cn6vnJrY/qh/VE+ZjfqkkB/NJf8/wAoL/mg/V8pIxP5h5Tp0dt1aaJTRVCo2Qs9mLI9NrgtZbrUcHdCkkgk3Atyj8Xykv8AmHlIVrxu0HrLuuB/MLA3YspdEQqGZjdbU051zydcze99tVDvclBeytZTy7UHw9zysjuO2lhcDIceYT+YeUBOvaJDTdtPab4m3pLcknmluUzboZyCxAJCLfdCjLSW1Nt1mbfJUsKa0bldUVw+8c83LC5biWM5jce0SE69sg7P/EtcFiqooJJKJvou+z+kLgq+8G3gNGtbK1pxydb63zvxMV+PbAx17ZaB2OvhI3GIx1hY6/vpmtoznXw85D60UnXw84GOvhErCdfCAnWKx1kJ1kjNxhY6+HlFPGRjr4eUEZuPh5SMdeweUUnXw8oSdfDygkkhtJEl6O8fOFeHePnIDp3j5wKdO8fOZZMvDvHzg/UfOAHTvHzk/UfOREcO8fOQH83zgHDvfOD9UKdmHxQ3/NFv+aBWvp7UV3HHxRf1fKMFbgp53yhFM/ffWQ7iH4h5SHj3h5RjTPVrfWKUOemt9YbXcF/x+UHzEO4ejjIyEcDrLY2DHXtisde2QnXtik/jFGJ17ZG4xSfxkPHtkjHjIx17YpOsh4xRidZL6xSdYSdY7JidYCdYDxkJkDX1hvr4RLwnj4QJydfDykJ18PKKTr4eUhOvh5QS2SJeSQAHTtPnIvDvHzgHDtPnIPM+cKNiDp3j5yDh3j5xRw7x85dh6LObKPWNz0ayW1Y4d75zVRwFRxkLm9wALn36Cd/ZP0eqAioUDC97VNG92k6WN2gaQ3BRFO5ALoN4KpIBYqAC1hnYa2tCquTsXYxpVUq4lENNTvMjvbfa3JGQ0BsbGX7UrYZmJq1QFBJp06aqi01JvZVAue3jOntH6K+mpq9DFMXIvvsbpWU5ixUXUe/r6Z4rHbDxVC5qUGCi92Qb6WHEstwPGQdNtqYNeZQLdbZA+8iIfpEo5mHQdpB+GeaJl1FAddZVO/8A8TNwpUvc3yh/4jB51CkfBx5GcM04pB6OMk738Ywzc7CKOtW+aiMtbAvoKtM9Vqg+5j+E8985D5yL0Y2VSqG1HEI5I5r/AGbHwax9wmPFbEq0+fTa3Arnfs6fdOQCdL5dHD3TZg9rV6IslQhfZPKUjo3GutvCSUvhzwz6ekdspZSNRPQU9tUKuWJo2Y+vR5Nu1CfynPolr7HFRS+HqCovEDkuveQ5g9ot1x2nmTxhPGba2CINrZ9Ght2ce0TI9MjhLaJITAZIkxOsl4sMkN5DBCTKoSdZOnw8oDx8JP3+Eka8kWSRMOHafOQcO0+cHzPnAPMyZrTg8K1Vwi9JLH2V6Z9H+j/0fSmqu68o5gH1e3rmL6IbGCUkdxyqlnbqT1F92f8AdPSbS2jTw677gszHdpomb1X9lfM6D7pmpqCdA90z4vZy1BZ1+c8pisZiK2dWqUXVaWHYooBBsHccpjbrt0Cc5sFR1FMXvqSS19ede95Lbu/wivhyThKu6hNyjjeRjxup07RYxl23Wpm2Iwx79E72fcb9U5eFxOITKlWe3sv9ug6rPdh4MJ0U21VH87DB14tRNm/wf9U6Ti5LNzG6+h1RqPs3FndqCnvn2x9XqE97It7zMGL+g1M8qhVZONnAqKewixA982u+AxHJLKrnLdqg0mv1b2R8DFOwqlLPC1nQagA8g/2m6n3TmLHDf6K1aYJcO+fJ+rhTcdJDkEHqAM4VWgVNn5LXsVcMjDwYT2/8SxlLKrSSovSl6TW8LqT4CWjb2EqciujJ1V0DLbvC4HjaIfPXp24a6dcrNOfRX2BhayH0LlUJv9i+8l+ncuVv7px8V9Faiqdzcc3yJLU3A7LlT90E8eyGKZ18RsupTBNQFCNAyswfsdAVHjaYxRJBIUkDUqCwHbbSSZI9Cu6EMjFWGhUlSOwjSMaYlZQyT0WG25TqjcxiZ8KyDlKel1HO7wsY+OwHowHyqUWzSoljcdo1tncaixytnPMsLTobJ2u+HJAAam1vSI9917aHLNWHBhmJE9fAXG8h3h9859SmVnp8RQUr9YwhLUibOhtv0nPBgOngRk3brn3KdYXFryTzsk3YzAMmdsumYTlHZS8kF5LxRrw3iXhvJGvJFkgtm+Zl2Cw/pHSn7bhSegE2J915R8zNey6u5VR/ZYnxsbSor63TqC+VgBkOAA+Vp5OtjPTu2IbmtdMOD6uHB51rc5iCT2gSzEbRP1eoQeUU3Qf6nsg/NOa77oCrooCr3RkIJZUrX8v3+9Jfg8Pv8pube3ePynMDFiFGpy987yLugKNBkJ7ui4scs+7Kbk/278HF33d8RbUqoi3OQ4AcT1CYm2kxPJUAf1XN/GcvFYr0jlr5DJeoCBHnbn+IZ3Lt4vSRZ57y1PSOo9VKg3aigdB1W/8AUDM9ItRNkd6f/wBbWU3zvuG6n3TP6WXb++hHrJmvd4jwnluX40vdNZe1+f1Yy1fFdCjtysuVRUqDLX7J/eLqfcJa+OwlTKqjUyf+4l1/zS499pwPSSxKmdwf9h0zyOe9uu30eRvtMNU7r0n8cmUxPTY+jqwqL0VFubd5bH33nJQKDvqN1rc6mTTb/JbGbqG1q6f+4HHs1kDEdjrZvfeaTbS+kyaV6LoeJQiov32PhYy1cPgcSb0yhfpQ+iqC46MmHumX+KUagtXoMt9Wp2rqOs2sw/xMqOysLiP5NRWPFQRveKHMeIki4j6Khb7jA30Wspa3Y6EETjYnYdZDd0svTS3qtujk87W3vnY9BjKHMqMVHqvy1t0Wa4HhaPT+kFRcq9G/S1Mlbf2m4PvEk8hVQKbbwNu1T4hgCDKignu2xeCxIs5W/RWUIR2PoPAzHifotSYb1N2W+m6RUT78/vgK81szHPh231sQRuurZrUQ6qw9k+8aidfaFBQBisPf0THlg5tTe12Vusa39ZSG9q2LGbErU9CrDqup9xy++NsbHGixSqp9C9lqjI2UHJ14BlJuOq4kj1cUGW7C40toPGW09gs9J67hadMIHRnuu+WPJCCxLXscuNj0GZ9q4H0DlLhkYAoy80owupU9BFyOy2ZBm7FbSr4padN3tTpqECIN3eAFrk9Nsvf0mReYq09w2P8A5ESegxOyiUybrtkcwLa/KcKtTKGxESSSC8MUl5JJIIY9LUeMT5/OHeIsRreVDtU8T9kyHpQ+AdT5R3qznK4OfAix6jLmcjWCdLZzb1VBwv8AgJ36qndYjWxt7p5fZ1bdqoTpvAe/LznsSo0M+h0mcmGU932vhnDOTiy+e/s8WDlLEeJWpmmzIdVJHaOBiKeM8Hivj5Y3HK432aGqS3DVbML6E2PYcj+Mzk3hoi7KB0j8Y45Zbl/VqY+olrEg8DbxEiv1zJjMSFdsr5knsuYq4pT1duVoZea5X0unSFX99cHpP31TIr36xDv/AL+cC1ip0a+cjgPz1DdBIuQOo8PCZQ86Oz8J6TlNknDpY8fCdeDhy5spjjDhhcrqLMPjaycyq5/pf7dR/lyh4Gav4gSPtcNccWonO/ca35pa9SnSXMAdAGpmJtrH1Uy6zmZ9DPoeDimuTl1XS8cx9LfUzYbCVDZKgRvZqXptfsbXwMqfZ1ajyqblePJJW/Re2sZsRSqDdqJu9BADD/xMz71E2ViqnNdw3Rh3TlPFy9NcZ3YZTKfOe31jFxkLXx9Y5VM+vdA/C05zqrHMkeE3VMTvDlW6mXIHTUcDMNUzzs2NjY8GitB13wlxTe9nRSb7tjkVv5dExUqu6ZRGVoB3cLit4ZAk9A/eUxbWwbW3yQSdQo5vZ09thJgq1p16TqwseOvXEvFMtoJ1tsbO9Gd4c06ds5EYjXkkkiRghktMsnpPbI6H7p0RTNRCVzemLsOL0vaUcd3j1ZzlmaMNiWRgysVZTdWGqnr6R1dEUgq9c9tsvHCsgf1hkw6GHznnKmHo4nlUilGuedTchKVU9NJzkpPssbZ5GVU/rGCf7Sm63yIcEBx1NoeoiOOdxu4+j8O6ydNyf1flvn/rv7awBqWdP5iixHtL8557e4cRkQciD1z1GDxqVRvI1zxU5MPCHE4SnU59ME9Oh94hlZldx9nq/hnH1V/F4Mpu/tXmQ824IbqvXYclByOhqpyUDptrOj/DsNTG845I9pjb3cZxNrbT9MQqDdpLki6XPTbhNS69a+Ty9J/5JvlylvtJ91OxmAxdBnKqq1abMXIRd1XUneY5AZWucp6Ffo6uK3BSpH6zVV944VxVwuHroS2673feLpuEkOApca5qPLb/AAsCOIIBllCq1O/o3amTkxpOygggrmL55Mw10YzD5bp7b2AuDVmXFpUO+q0wgZPS0mpU6oqC+VrVkyBORM5VByRczXtLaNfEIqVSlRlIIqNdalgiU91jcK3JROUwLckcrUTCmQA/CSbMKm+6p0nPqXjPTtUVFJOSqL5ZWA6Jw/o8m87HoXLqJI/3nT22N2i1uJUHsJ/2n2Ois4uC5zz6vp9Nw2cF5fr/AA4lXEGoxdtT9w4CFXmTejoZ8nLK55d2V8vBM7vbT6SX0KgceiY8lslPsP6tuonLxnPZ4C868Wc47vHx7z5w92/JHYoSpFiDYg9MXfv4fhLtpG5V/bQE94ck/lmFHsf3mJz5sZjnZPH2YvpdLpJJJzZXJUtlNa470Yuc+gdJnOjI2reA6hximbE4p6jb7m5+5R0AcBKWkccowtlJbSSCSJ2stDHMFoBWZDCwikRKb1v3lN2C2vWpDdSoyrxQ2qUz2o11+6c8iAmAd0Y3D1M6uHCH28G3o/fTa6nwKzTuVKmWFxofop1j9XqdgD8k+DTzF43pDxz7Zabx5c8Py5WfSt+0aVdGtiFdW4ekBF+wnIjsmQPNuD2zWpLuU6jBOKParTP9jgj7po+t4Wp/NwxRj6+EbdF+uk919xWTGWVyu8ruuYHjh5uGx1qf9LiUqHgj/wDL1SegIx3WPdYzDicNUpHdqo6NwDqUvbovrIG3pN6Z96EPIvQ/RioPSMp4pl4ETtbXpl6Dga2DD+03nj9nYs0qiuOBz61ORE92rg5jMHTrE9nDy/27g/SfCpjz9NlxXzN/y8GTeMrWm7bOA9ExYD7Njcf0k6g+U508mvXT4XNw5cOdxymrFxW8W0AMenTaowRRctkPnGY3bOP9V1J6m2h/Lo9Yf3b2U5rGdX6QFRUFNebTUKO9q05N5rmu87+mp+w5ZrOz5Na6DsEEK6DsH35wCcmL5B9IScrSceyKz2kFNszFqayxBfM8ZUTcxQWkhkiWiCNFMAFoLRo4WOmpFW7IEl6pLFpx7XTHj7mJqfVENMzqei6oj0R0S03enunMKHogzE3vSlLUoXFxy47FHpDxzHXOjhNs1qY3BUJp6FKgFamR0bjXA8JhNKKaZhpnVdc4rCVf5uHNNsyXwjXHjSc2t2MIBscVP+mrpV6EY/V6n+D5H+1jOPukQ7x4i8g0YnD1KR3KtNkboZSp+/WdzYW1wAKVQ2A5jHgOgzm4XbNZF3A96f8A26oFVLdStcDwtLTicLUH2lBqTe3hm3lJ66bnLwYS9Z4ejpeqz6fkmeH+Z7WPW1FDDdYAqdQcwZyMTsFTnTbd6jyh79RKsH6UDdw1eniF4ISaVTsCPYn+0mNW24aZ3atB0fobL3XGkrlvzH6K9d0HVY/35q/r9rFafR9yc3UDqBJmus1LAoSudZhZScyevqHVxnPxH0lYi1NAvWx3j7tJwq9Vqh3mJLHiZqZSes8vBz9T0fDLOmx3b732+gVKhJLE3JzJPEw0Ke8wW9r6n2VGZPgATJRpNUYIilnOSquZJm11FMGmpDOf5jKbqAPUU8c8yeoAaXOHxbdq3a9z7uocIt4GMEmVbEkm0jXJsP2JKdsyTa15p9AVG8wszZ58F4SKlzYTPHqPcxLxSSQ2kiWmQJLtwSbs1oyKwsdRCBHUTUjeMFVlirFUSwTXa9GF0YCQiEQQ7Xo7lbLKXWaTKmEu1xzm2Zkg3Jcwi2hp5sooKRDTmkrFKzNjPayskS1pt3YPRw7R2sZbpE6NDbNZRuF99PYrAVk9zXt4WlXoRAcNDtX4eTUMThHzqYZkPE4apYE9xw33EQ/8mM1pV36nqU6Y8SqEn7pgOGPAybjCXbRcLG6rjDulKaLTQ85ad95x0M7Esw6rgdUyyveMBqHoMNVnSxpC0par2xTUgG7ZZpKxZxcg8kHQHgbcY+1cUrGyG549U5bPfhFvIjDBCIobSRpIl0JJIwE3GgtCIbQgTcjUMsYRRGE3HbGmvJBJHTp3AYpjmIRJjLIjCKRLDAVmLGLCWktDIRDTOikQhYwEbdl2t4wFWMEjKI6iPa744qzTiNTmkCBhDtbuE0xtTlRpTaVlbLDtefLjjE1GVNRm9llbLC4OFwYjTilJstFKTFxYuLJuyTQUilIaGlUks3JJLTeBGAgvDvTcWzWjWiAw3m5W9mEN4LwAzpGpTwxZLxa7hMEkMlstoLRobQpV7sgEYiSGkUCWASCG0ZGokcSQxkdpUgIjSGWm9kaVsJaRFYQsYyUMIhEuYRGWZscMopIisstIiGZrnYrtFtHYxS0xWUtJJvCSAXyCSSTENJJJNtHkWGSdI1DCCSSLSQySRMEQGSSDQSSSSEERxBJKNw4hEkk3HU0Bkkk0kQySQopWlZkkmXLIplbSSTnXOqWitJJOdc6WSSSAf//Z"
+    },
+    {
+      "id": 16,
+      "title": "TRebel Airdopes 141 | 8mm drivers, Upto 42 Hours Total Playback, ENxTM Technology, ASAPTM Charge",
+      "price": 1499,
+      "desc": "Hello sassy and fierce ladies! We see you soaring high for your dreams, and we want to support them. Let TRebel Airdopes 141 be your biggest cheerleader while you win the world with your go-getter attitude! Shun their opinions by indulging in your rhythm with the 8mm Dynamic Drivers. Ace those business calls with its ENx™ Technology that makes you heard every time. ASAP™ Charge empowers you with 75 minutes of playback with just 5 minutes of charging. IPX4 makes it easier to roll in the good times as you rock that sweat, changing your lifestyle. Connect instantly with its IWP™ Technology & keep everything under control with its Quick Response Touch.",
+      "category": "Airdopes",
+      "img": "http://cdn.shopify.com/s/files/1/0057/8938/4802/products/grey_92c7203d-e618-4992-864f-cc69f45cbdb2.png?v=1673001301"
+    },
+    {
+      "id": 17,
+      "title": "Airdopes 131 DC Edition with 13 mm Drivers, Type-C Carry Case, 12 hours Nonstop Music",
+      "price": 1399,
+      "desc": "Sleek. Comfortable. Stylish. And a splash of amazing acoustic powers. Airdopes 131 true wireless earbuds are equipped with 13mm drivers that offer you beyond the ordinary sound. Keep going on for long like the DC heroes with its 12 hours of capacity. Plug-in be prepared to be awe struck",
+      "category": "Airdopes",
+      "img": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/05_d2451310-953e-4ed2-8047-90808d27663a_1500x.jpg?v=1656100471"
+    },
+    {
+      "id": 18,
+      "title": "boAt Airdopes 141 Pro | 12mm Drivers, Upto 45 Hours Playback, Quad Mics with ENx™️ Technology",
+      "price": 1499,
+      "desc": "Take a step up on your listening experience with boAt Airdopes 141 Pro. Start playing your tracks on our best wireless earbuds and don't stop with a total playback of 45 hours. Never miss a beat with boAt Signature Sound on our all-new boAt Airdopes so that every song that you listen to shines through. Plug-in and live the sound.",
+      "category": "Airdopes",
+      "img": "http://cdn.shopify.com/s/files/1/0057/8938/4802/products/1_05260e43-8f0b-4776-a433-ea2089c7f7e7.png?v=1659614550"
+    },
+    {
+      "id": 19,
+      "title": "boAt Airdopes 441 | Wireless Earbuds with 6mm Driver For Immersive Sound",
+      "price": 2499,
+      "desc": "Plug Into Nirvana with boAt Airdopes 441 TWS earbuds to enjoy your music in a truly wireless way. It has the IWP (Insta Wake N’ Pair) Technology, meaning as soon as one opens the charging case lid, the best earbuds power on and enter connection mode. The TWS Airdopes 441 come equipped with 6mm drivers for immersive sound. It offers a seamless user experience via its capacitive touch controls",
+      "category": "Airdopes",
+      "img": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main1_7aa8c6c2-054b-42d5-a701-1e0ac33549c1_288x.png?v=1645014290"
+    },
+    {
+      "id": 20,
+      "title": "boAt TRebel Airdopes 402 | In-Ear Earbuds With 10mm Driver, IPX4 Sweat",
+      "price": 1999,
+      "desc": "The time hath come for you, my ladies, to walk with elegance dripping with every step you take. Let the royal shine and distinguish yourself from the crowd with boAt Airdopes 402, designed solely to compliment you and your personality. These are the best women wireless earbuds that come in shades matching your moods! Connect and experience the magic of Nirvana with total 30 hours of playtime and Bluetooth V5.2 that never lets you down. Let yourself loose and free, choosing for your own self, with this immersive audio built just to make you experience the unreal boAt signature sound. Weighing as light as opinions should, TRebel Airdopes 402 with its 450mAh battery charging case will assist you in blocking the outside world for a long time.",
+      "category": "Airdopes",
+      "img": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/3b27aa2a-68ce-47db-a975-ffd5543393b6_600x.png?v=1625046357"
+    },
+    {
+      "fullName": "sidharth kumar",
+      "email": "sidharthk002@gmail.com",
+      "password": "12345678",
+      "cart": [],
+      "id": 21
+    }
+  ]
+}
