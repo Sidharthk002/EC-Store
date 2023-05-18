@@ -51,6 +51,10 @@ const Checkout = () => {
     if(cartItems.length === 0){
         alert("Please add some products!")
     }
+    if(cashOnD.cash===true && cartItems.length > 0){
+      // eslint-disable-next-line no-useless-concat
+      alert("Your Order is Placed." + "\n" + "Thank you so much for your order!")
+    }
   }
   return (
     <div className="container">
